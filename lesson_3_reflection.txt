@@ -41,4 +41,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I guess most of the time it is best to work on a branch except when you are
+    working alone. Main advantage of working directly on master is simplicity.
+    Otherwise, using branches allows you to finish your stuff while still
+    saving your work even in the cloud without having to worry about other
+    people working on the same repository.

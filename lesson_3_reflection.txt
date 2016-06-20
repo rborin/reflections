@@ -22,7 +22,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can work on multiple branches of your repository without requiring
+    an Internet connection. Later you can update your repository (fetch) 
+    and merge changes as needed after which you could push them to the
+    remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

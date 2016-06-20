@@ -30,7 +30,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaborating without a version control system would be very hard in all
+    but the simplest projects. Git allows many people to work on the same 
+    repository without interfering with each other and deciding when they want
+    to exchange changes among branches. GitHub additionally lets us to work
+    through the Internet on a single shared server. All these things are made
+    possible by Git or GitHub. I cannot imagine what would become easier if
+    a VCS were not used though.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
